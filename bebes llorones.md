@@ -2,6 +2,7 @@
 Os traigo el doxeo de este sinverguenza de mierda, dicho esto disfruten.
 
 Nombre Completo: Jaime Cela Sanchez
+
 Edad: 13 años (2012)
 Apodo: shadox3945_95962
 ID de Discord: 1171857165389135912
