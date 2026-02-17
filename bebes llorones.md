@@ -33,6 +33,8 @@ DNS inverso de la IP: 155.pool95-22-183.dynamic.orange.es
 
 Centro Educativo: Santa María Del Valle
 
+Telefono del Centro Educativo: 954 18 03 02
+
 Curso en la que oscila el usuario: 2n ESO
 
 Pagina Web: https://www.santamariadelvallemadrid.es/
